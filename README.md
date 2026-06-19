@@ -1,7 +1,7 @@
 <!-- 💜 NEEL WYNISCO | SOFTWARE ENGINEER PROFILE 💜 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=600&color=9F00FF&center=true&vCenter=true&width=600&lines=Neel+Dhoble;Junior+Software+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=600&color=9F00FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js" alt="Typing Animation" />
 </p>
 
 <p align="center">
