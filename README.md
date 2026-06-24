@@ -1,11 +1,11 @@
 <!-- 💜 NEEL WYNISCO | SOFTWARE ENGINEER PROFILE 💜 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=600&color=9F00FF&center=true&vCenter=true&width=600&lines=Junior+Software+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=600&color=9F00FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js" alt="Typing Animation" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:B57DFF&height=100&section=header&text=Software+Engineering+Portfolio+💜&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:B57DFF&height=100&section=header&text=Neel+Dhoble+Portfolio+💜&fontSize=24&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </p>
 
 ---
